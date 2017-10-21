@@ -196,8 +196,6 @@ public class httpsUrlConnection{
 	
 	public static void main(String[] args){
 		
-		httpsUrlConnection hs = new httpsUrlConnection();
-		String m = hs.HttpUrlConnectionGet("https://passport.kesucorp.com/captcha_image?type=register&0.5502958530560136");
-		System.out.println(m);
+	
 	}
 }

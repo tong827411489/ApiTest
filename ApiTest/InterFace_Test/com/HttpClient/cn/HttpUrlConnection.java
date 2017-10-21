@@ -286,9 +286,6 @@ public class HttpUrlConnection {
 	} 
 	
 	public static void main(String[] args){
-		HttpUrlConnection hc = new HttpUrlConnection();
-		String m = hc.HttpUrlConnectionGet("https://passport.kesucorp.com/captcha_image", 
-				"type=register");
-		System.out.println(m);
+		
 	}
 }
