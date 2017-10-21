@@ -285,7 +285,5 @@ public class HttpUrlConnection {
 		return response;
 	} 
 	
-	public static void main(String[] args){
-		
-	}
+
 }
